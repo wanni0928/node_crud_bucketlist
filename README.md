@@ -15,3 +15,12 @@ an crud diary with nodeJS
 - [x] DB : mongoDB
 - [x] mongoose
 - [x] webpack : scss
+
+## Develop Fuctions : Join / Login
+- [ ] passport
+- [ ] passport-local-mongoose
+
+## pages
+- [ ] home
+- [ ] join
+- [ ] login
