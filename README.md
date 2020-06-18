@@ -17,10 +17,19 @@ an crud diary with nodeJS
 - [x] webpack : scss
 
 ## Develop Fuctions : Join / Login
-- [ ] passport
-- [ ] passport-local-mongoose
+- [x] express-session
+- [x] passport
+- [x] passport-local-mongoose
+- [x] local strategy
+- [ ] github strategy
 
-## pages
-- [ ] home
-- [ ] join
-- [ ] login
+## Models
+- [x] User
+- [ ] Gallery
+
+## pages(:not(:styling))
+- [x] home
+- [x] join
+- [x] login
+- [ ] gallery
+- [ ] editGallery
