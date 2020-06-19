@@ -21,7 +21,7 @@ an crud diary with nodeJS
 - [x] passport
 - [x] passport-local-mongoose
 - [x] local strategy
-- [ ] github strategy
+- [x] github strategy
 
 ## Models
 - [x] User
