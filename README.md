@@ -31,5 +31,9 @@ an crud diary with nodeJS
 - [x] home
 - [x] join
 - [x] login
+- [x] changePassword
+- [x] userDetail
+- [x] editProfile
+- [x] search
 - [ ] gallery
 - [ ] editGallery
